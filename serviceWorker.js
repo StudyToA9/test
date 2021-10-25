@@ -2,8 +2,8 @@ var cacheAll = false;
 var CACHE_NAME = 'webapk-cache';
 var urlsToCache = [
 	'/',
-	'/wp-content/uploads/2020/08/cropped-SC_Logo-192x192.png',
-	'/wp-content/uploads/2020/08/Supercoders-2x1_Transparent1.png',
+	'https://dl-koombi-content.netlify.app/progressive-web-app/studytoa9/cdn/images/android-chrome-192x192.png',
+	'https://dl-koombi-content.netlify.app/progressive-web-app/studytoa9/cdn/images/android-chrome-192x192.png',
 ];
 var urlsNotToCache = [
 ];
