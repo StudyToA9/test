@@ -1,7 +1,7 @@
 {
-	"author": "SuperCoders",
-	"name": "SuperCoders",
-	"short_name": "SuperCoders",
+	"author": "StudyToA9",
+	"name": "StudyToA9",
+	"short_name": "StudyToA9",
 	"description": "Guide of Python Android Website Mobile Development | Online Video Tutorials | SuperCoders - SuperCoders",
 	"orientation": "portrait",
 	"start_url": "/",
@@ -11,7 +11,7 @@
 	"theme_color": "#238ee0",
 	"icons": [
 		{
-			"src": "/s_logo2.png",
+			"src": "https://blogger.googleusercontent.com/img/a/AVvXsEiqDPHN8viSOe8SFOdyHY84bAOzwksJ99e1KCKSpwZx959bZBb7F3ULDx1MQj6TQlPUCp8KykNgMjAOLurc7OXrF3dbtV1fam3HHK-mxjhUJBe6hLfNGJA13ud3ChHJo0RLADiBjZpVuzjBhtVKOa6bmaY0ia_yjR4Xn0ihzZLjidPTLozqSJ5pte2r=s16000",
 			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
 			"type": "image/png"
 		}
@@ -20,7 +20,7 @@
 	"version": "0.1",
 	"applications": {
 		"gecko": {
-			"id": "supercoders.tech@gmail.com"
+			"id": "studytoa9@gmail.com"
 		}
 	}
 }
